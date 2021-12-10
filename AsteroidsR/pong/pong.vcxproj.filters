@@ -20,9 +20,6 @@
     <ClCompile Include="menu.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="raylibtest.cpp">
-      <Filter>Archivos de origen</Filter>
-    </ClCompile>
     <ClCompile Include="run.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
@@ -30,6 +27,9 @@
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="instructions.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="meteor.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

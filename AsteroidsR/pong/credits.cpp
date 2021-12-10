@@ -65,7 +65,7 @@ namespace asteroids
 
 
 		
-			DrawText("ASTEROIDS by Alan Krulfeld ", 400 - button[static_cast<int>(Scenes::credits)].texture.width / 2 - 150, 200, 30, BLACK);
+			DrawText("CUADRADOID by Alan Krulfeld ", 400 - button[static_cast<int>(Scenes::credits)].texture.width / 2 - 150, 200, 30, BLACK);
 
 			DrawTexture(button[static_cast<int>(Scenes::credits)].texture, 100, 350, WHITE);
 

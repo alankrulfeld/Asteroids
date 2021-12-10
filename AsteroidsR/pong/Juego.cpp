@@ -1,42 +1,21 @@
-#include "raylib.h"
+﻿#pragma once
 #include "juego.h"
 #include <iostream>
-#include "menu.h"
-//struct Ball
-//{
-//	Vector2 position;
-//	Vector2 speed;
-//	int radius;
-//	bool active;
-//	bool sideColision;
-//	Texture2D texture;
-//} ball;
+
 namespace asteroids
 {
 
 	namespace game
 	{
-		const int tam = 5;
-		const int amountMenu = 3;
 		
-
-		struct Button
-		{
-			Rectangle rec;
-			Texture2D texture;
-		};
-		Button button[tam];
 		Texture2D backgrounds;
 	
-
-		Rectangle player1;
-		Rectangle player2;
 		const int screenWidth = 800;
 		const int screenHeight = 500;
 	
 		Music musicPunch;
 		Music musicGameplay;
-
+		
 		void init()
 		{
 
@@ -45,8 +24,8 @@ namespace asteroids
 			//--------------------------- 
 			InitWindow(screenWidth, screenHeight, "");
 			backgrounds = LoadTexture("../res/texture/ui/BACKGROUNDMENU.png");
+
 			InitAudioDevice();
-			button[static_cast<int>(Scenes::game)].texture = LoadTexture("../res/texture/ui/BACK.png");
 			
 			musicPunch = LoadMusicStream("../res/audio/explosion_estrella.ogg");
 			musicGameplay = LoadMusicStream("../res/audio/Musica_gameplay.ogg");
@@ -74,7 +53,7 @@ namespace asteroids
 			// Draw
 			//----------------------------------------------------------------------------------
 		
-				
+
 			
 			DrawTexture(backgrounds, 0, 0, WHITE);
 			
@@ -95,10 +74,16 @@ namespace asteroids
 
 		}
 
+		void playerInput()
+		{
+			  GetMousePosition();
+			if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON))
+			{
 
+			}
+
+		}
 	}
 }
-
-
 
 

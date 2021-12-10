@@ -24,7 +24,7 @@
     <ClCompile Include="Juego.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="menu.cpp" />
-    <ClCompile Include="raylibtest.cpp" />
+    <ClCompile Include="meteor.cpp" />
     <ClCompile Include="run.cpp" />
   </ItemGroup>
   <ItemGroup>

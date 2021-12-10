@@ -103,7 +103,7 @@ namespace asteroids
 
 			DrawTexture(background, 0, 0, WHITE);
 
-			DrawText("ASTEROIDS ", 300 - button[static_cast<int>(Scenes::game)].texture.width / 2, 60, 50, BLACK);
+			DrawText("CUDRADOID ", 300 - button[static_cast<int>(Scenes::game)].texture.width / 2, 60, 50, BLACK);
 			DrawTexture(button[static_cast<int>(Scenes::game)].texture, 400 - button[static_cast<int>(Scenes::game)].texture.width / 2, 120, WHITE);
 			DrawTexture(button[static_cast<int>(Scenes::credits)].texture, 400 - button[static_cast<int>(Scenes::game)].texture.width / 2, 220, WHITE);
 			DrawTexture(button[static_cast<int>(Scenes::instructions)].texture, 400 - button[static_cast<int>(Scenes::game)].texture.width / 2, 320, WHITE);
