@@ -1,0 +1,145 @@
+﻿  credits.cpp
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\credits.cpp(36,44): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\credits.cpp(38,45): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  instructions.cpp
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\instructions.cpp(36,44): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\instructions.cpp(38,45): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Juego.cpp
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(109,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(113,94): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(119,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(123,97): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(128,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(80,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(128,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(129,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(129,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(135,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(135,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(136,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(136,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(150,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(154,94): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(160,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(164,97): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(169,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(169,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(170,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(170,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(176,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(176,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(177,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(177,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(190,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(194,94): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(200,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(204,97): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(209,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(209,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(210,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(210,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(216,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(216,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(217,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(217,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(289,80): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(290,86): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(291,88): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(292,87): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(308,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(309,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(455,84): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(629,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(633,94): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(639,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(643,97): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(648,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(600,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(648,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(649,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(649,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(655,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(655,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(656,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(656,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(670,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(674,94): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(680,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(684,97): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(689,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(689,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(690,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(690,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(696,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(696,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(697,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(697,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(710,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(714,94): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(720,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(724,97): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(729,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(729,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(730,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(730,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(736,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(736,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(737,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(737,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(770,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(774,94): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(780,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(784,97): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(789,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(789,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(790,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(790,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(796,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(796,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(797,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(797,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(811,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(815,94): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(821,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(825,97): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(830,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(830,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(831,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(831,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(837,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(837,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(838,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(838,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(851,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(855,94): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(861,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(865,97): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(870,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(870,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(871,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(871,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(877,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(877,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(878,45): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\Juego.cpp(878,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  main.cpp
+  menu.cpp
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\menu.cpp(22,44): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\menu.cpp(24,45): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\menu.cpp(47,44): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\pong\menu.cpp(49,45): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  raylibtest.cpp
+  run.cpp
+  Generando código...
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1425 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+raylib.lib(core.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(core.obj)' o en 'C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\bin\ReleaseWin32\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(shapes.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(shapes.obj)' o en 'C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\bin\ReleaseWin32\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(textures.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(textures.obj)' o en 'C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\bin\ReleaseWin32\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(text.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(text.obj)' o en 'C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\bin\ReleaseWin32\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(raudio.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(raudio.obj)' o en 'C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\bin\ReleaseWin32\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(rglfw.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(rglfw.obj)' o en 'C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\bin\ReleaseWin32\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(utils.obj) : warning LNK4099: no se encontró PDB '' con 'raylib.lib(utils.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  pong.vcxproj -> C:\Users\Alan\Desktop\facu\desarrollo 1\AsteroidsOficial\AsteroidsR\bin\ReleaseWin32\asteroids.exe
